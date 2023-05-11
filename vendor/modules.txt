@@ -208,7 +208,7 @@ github.com/cyphar/filepath-securejoin
 github.com/davecgh/go-spew/spew
 # github.com/disiqueira/gotree/v3 v3.0.2
 github.com/disiqueira/gotree/v3
-# github.com/docker/distribution v2.7.1+incompatible
+# github.com/docker/distribution v2.8.2+incompatible
 github.com/docker/distribution
 github.com/docker/distribution/digestset
 github.com/docker/distribution/metrics
